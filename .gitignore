@@ -1,5 +1,6 @@
 # Ignore child projects and temporary artifacts
 azure-enterprise-landingzone-devsecops/
+yaml-zero-to-hero-mastery/
 .terraform/
 *.tfstate
 *.tfstate.*

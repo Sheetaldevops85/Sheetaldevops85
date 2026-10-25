@@ -260,6 +260,30 @@ Extensive track record leading high-impact engineering teams, steering vendor en
         </p>
       </td>
     </tr>
+    <tr>
+      <td width="100%">
+        <h4 align="left">
+          ⚡ <a href="https://github.com/Sheetaldevops85/yaml-zero-to-hero-mastery"><b>yaml-zero-to-hero-mastery</b></a>
+        </h4>
+        <p align="left">
+          <b>The Definitive Production-Ready YAML Handbook for DevOps, Kubernetes, CI/CD & Cloud Engineers.</b> Complete reference from core grammar to enterprise infrastructure manifests, DevSecOps vulnerability defense, and command-line automation.
+        </p>
+        <p align="left">
+          • <b>DevOps & Cloud Ecosystem:</b> Production manifests for <b>Kubernetes</b> (hardened Pods, RollingUpdate Deployments, Ingress TLS), <b>Helm</b> values, <b>Docker Compose</b> microservices, <b>GitHub Actions</b> matrix CI, and <b>Azure DevOps</b> multi-stage pipelines.<br/>
+          • <b>Advanced Syntax & DRY Architecture:</b> In-depth mastery of Multiline Scalars (<code>|</code> vs <code>></code>), Chomping indicators (<code>+</code>, <code>-</code>, clip), Anchors (<code>&</code>), Aliases (<code>*</code>), and Merge keys (<code><<</code>).<br/>
+          • <b>DevSecOps & Pitfall Hardening:</b> Remediation for the <i>"Norway Problem"</i> (<code>NO &rarr; false</code>), unquoted string coercion, YAML entity expansion bombs, and preventing Remote Code Execution (RCE CVE-2020-14343) via Python <code>yaml.safe_load()</code>.<br/>
+          • <b>Automation & Tooling:</b> Enterprise <code>yamllint</code> configuration, JSON Schema validation directives, 25+ real-world <code>yq</code> CLI query cheat sheets, and automated CI test gates.
+        </p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/YAML-1.2_Standard-CB171E?style=flat-square&logo=yaml&logoColor=white" />
+          <img src="https://img.shields.io/badge/Kubernetes-Manifests-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Security-RCE_Safe_Loader-2ea44f?style=flat-square&logo=shield&logoColor=white" />
+          <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions_%26_ADO-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+          <img src="https://img.shields.io/badge/CLI-yq_Mastery-4E9BCD?style=flat-square" />
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 
