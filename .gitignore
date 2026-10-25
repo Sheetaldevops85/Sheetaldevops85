@@ -1,0 +1,5 @@
+# Ignore child projects and temporary artifacts
+azure-enterprise-landingzone-devsecops/
+.terraform/
+*.tfstate
+*.tfstate.*

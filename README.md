@@ -233,6 +233,38 @@ Extensive track record leading high-impact engineering teams, steering vendor en
 
 ---
 
+### 🚀 Featured Enterprise Architecture & DevSecOps Repositories
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="100%">
+        <h4 align="left">
+          ☁️ <a href="https://github.com/Sheetaldevops85/azure-enterprise-landingzone-devsecops"><b>azure-enterprise-landingzone-devsecops</b></a>
+        </h4>
+        <p align="left">
+          <b>Production-Grade Azure Enterprise Landing Zone (ALZ) & DevSecOps Platform</b> written in modular <b>Terraform</b>. Adheres to Microsoft CAF & CIS Azure Benchmark standards.
+        </p>
+        <p align="left">
+          • <b>Hub-and-Spoke Topology:</b> Azure Firewall inspection, Azure Bastion, Gateway subnets, and UDR forced tunneling (<code>0.0.0.0/0</code>).<br/>
+          • <b>Zero-Trust Azure Key Vault:</b> Azure RBAC authorization, purge protection enabled, 90-day soft delete, default-deny ACLs.<br/>
+          • <b>Service Endpoints vs. Private Endpoints:</b> Dual architecture featuring Private Link DNS Zone (<code>privatelink.vaultcore.azure.net</code>) and Subnet Service Endpoints.<br/>
+          • <b>Enterprise CI/CD Pipelines:</b> Multi-stage YAML pipelines for <b>Azure DevOps</b> and <b>GitHub Actions</b> with automated Checkov / TFLint security gates, speculative plans, and manual approval gates.
+        </p>
+        <p align="left">
+          <img src="https://img.shields.io/badge/Terraform-%3E%3D1.5.0-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+          <img src="https://img.shields.io/badge/AzureRM-v3.90%2B-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+          <img src="https://img.shields.io/badge/Architecture-CAF_Hub_--_Spoke-0078D4?style=flat-square&logo=azuredevops&logoColor=white" />
+          <img src="https://img.shields.io/badge/Security-CIS_Azure_Benchmark-238636?style=flat-square&logo=checkmarx&logoColor=white" />
+          <img src="https://img.shields.io/badge/CI%2FCD-ADO_%26_GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
